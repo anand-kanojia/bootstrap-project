@@ -112,7 +112,7 @@ body {
 /*******************small screeen**********************/
 @media (max-width:768px) {
   body {
-    background-image: url("project/slam4.jpg");
+    background-image: url("slam4.jpg");
     background-attachment: fixed;
     opacity: .9;
   }
